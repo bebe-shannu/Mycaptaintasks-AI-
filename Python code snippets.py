@@ -15,8 +15,8 @@ print ("BTS Rapline: ",bts_rapline)
 
 #2.Accessing elements  from a tuple
 
-oneDirection= ('Harry Styles', 'Louis Tomlinson ', 'Niall Horan' , 'Liam Payne');
-print("I love ",oneDirection[0])
+OneDirection= ('Harry Styles', 'Louis Tomlinson ', 'Niall Horan' , 'Liam Payne');
+print("I love ",OneDirection[0])
 
 
 
