@@ -1,4 +1,4 @@
-#Assigning elements to different lists
+#1.Assigning elements to different lists
 
 #using append()
 bts_hyungline = ['kimnamjoon', 'kimsoekjin'] 
@@ -13,15 +13,14 @@ print ("BTS Rapline: ",bts_rapline)
 
 
 
-#Accessing elements  from a tuple
-
+#2.Accessing elements  from a tuple
 
 oneDirection= ('Harry Styles', 'Louis Tomlinson ', 'Niall Horan' , 'Liam Payne');
 print("I love ",oneDirection[0])
 
 
 
-#Deleting different dictionary elements
+#3.Deleting different dictionary elements
 
 BT21 = {"Namjoon": 'Koya', 'Jin': 'RJ', 'Suga': 'Shooky', 'Jhope': 'Mang'}
 BT21.pop('Jin')
